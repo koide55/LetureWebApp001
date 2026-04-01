@@ -7,7 +7,7 @@ Windows と macOS の両方に対応しています。
 授業では、教材を以下の GitHub repository から取得します。
 
 - Repository:
-  - [https://github.com/koide55/-LetureWebApp001](https://github.com/koide55/-LetureWebApp001)
+  - [https://github.com/koide55/LetureWebApp001](https://github.com/koide55/LetureWebApp001)
 
 ---
 
@@ -206,14 +206,14 @@ python3 --version
 ### Windows PowerShell
 
 ```powershell
-git clone https://github.com/koide55/-LetureWebApp001.git
+git clone https://github.com/koide55/LetureWebApp001.git
 cd -LetureWebApp001
 ```
 
 ### macOS Terminal
 
 ```bash
-git clone https://github.com/koide55/-LetureWebApp001.git
+git clone https://github.com/koide55/LetureWebApp001.git
 cd -LetureWebApp001
 ```
 
