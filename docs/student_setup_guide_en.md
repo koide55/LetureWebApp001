@@ -207,14 +207,14 @@ Clone the following repository.
 
 ```powershell
 git clone https://github.com/koide55/LetureWebApp001.git
-cd -LetureWebApp001
+cd LetureWebApp001
 ```
 
 ### macOS Terminal
 
 ```bash
 git clone https://github.com/koide55/LetureWebApp001.git
-cd -LetureWebApp001
+cd LetureWebApp001
 ```
 
 ---
